@@ -14,7 +14,7 @@ Release/
 *.a
 *.so
 *.exe
-*.elf
+#*.elf
 *.bin
 *.hex
 *.map
