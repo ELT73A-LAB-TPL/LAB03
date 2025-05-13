@@ -72,24 +72,6 @@ LoadMX ProjectName ScriptName.txt Y
 "%STM32CubeMX_PATH%\jre\bin\java" -jar "%STM32CubeMX_PATH%\STM32CubeMX.exe" -i
 ```
 
-### Load STM32CubeMX Script
-Load default values
-```bash
-LoadMX
-```
-Load with Project Name
-```bash
-LoadMX ProjectName
-```
-Load with Project Name and Script Name
-```bash
-LoadMX ProjectName ScriptName.txt
-```
-Load with Project Name, Script Name and generate code
-```bash
-LoadMX ProjectName ScriptName.txt Y
-``` 
-
 ### MX export 
 ```bash
 export script ScriptToLoad.txt
